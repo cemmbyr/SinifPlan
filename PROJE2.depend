@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509474199 source:c:\users\asus\desktop\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1509474199 source:c:\users\asus\desktop\›k›nc›proje\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
