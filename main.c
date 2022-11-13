@@ -1,5 +1,3 @@
-//CEM BAYIR 160202066
-//ÖZGÜR DEMÝR 160202072
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
